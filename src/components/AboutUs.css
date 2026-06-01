@@ -1,0 +1,70 @@
+.about-section {
+  background: var(--green-pale);
+  padding: 4rem 2rem;
+}
+
+.about-inner {
+  max-width: 860px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-tag {
+  display: inline-block;
+  background: var(--green-mid);
+  color: var(--white);
+  padding: 5px 14px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  margin-bottom: 1rem;
+}
+
+.about-heading {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+  color: var(--green-deep);
+  margin-bottom: 1rem;
+}
+
+.about-body {
+  color: #3a5244;
+  font-size: 1rem;
+  line-height: 1.8;
+  max-width: 640px;
+  margin: 0 auto 2.5rem;
+}
+
+.about-pillars {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.pillar {
+  background: var(--white);
+  border-radius: 14px;
+  padding: 1.5rem 1.25rem;
+  text-align: left;
+}
+
+.pillar-icon {
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+.pillar strong {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--green-deep);
+  margin-bottom: 6px;
+}
+
+.pillar p {
+  font-size: 0.88rem;
+  color: var(--muted);
+  line-height: 1.6;
+}
