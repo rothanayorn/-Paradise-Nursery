@@ -8,11 +8,11 @@ Paradise Nursery is a front-end e-commerce application built with **React**, **R
 
 ## Features
 
-- **Landing Page** — Full-screen hero with company info and Get Started button
-- **Product Listing Page** — 18 unique houseplants in 3 categories (Flowering Plants, Tropical Foliage, Cacti & Succulents), each with thumbnail, name, price, and Add to Cart button that disables after adding
-- **Shopping Cart Page** — View all cart items with thumbnails, names, unit prices, line totals; increase/decrease quantity; delete items; see total count and cost
-- **Navbar** — Shared across product and cart pages with dynamic cart item count
-- **Redux State Management** — Cart state managed via `@reduxjs/toolkit` slice
+- **Landing Page** :  Full-screen hero with company info and Get Started button
+- **Product Listing Page** :  18 unique houseplants in 3 categories (Flowering Plants, Tropical Foliage, Cacti & Succulents), each with thumbnail, name, price, and Add to Cart button that disables after adding
+- **Shopping Cart Page** : View all cart items with thumbnails, names, unit prices, line totals; increase/decrease quantity; delete items; see total count and cost
+- **Navbar** : Shared across product and cart pages with dynamic cart item count
+- **Redux State Management** : Cart state managed via `@reduxjs/toolkit` slice
 
 ## Tech Stack
 
