@@ -20,7 +20,7 @@ function LandingPage() {
 
         <p className="landing-desc">
           We believe every home deserves a touch of nature. Our curated collection
-          of houseplants brings life, colour, and calm to any space — hand-picked
+          of houseplants brings life, colour, and calm to any space, hand-picked
           by expert botanists and delivered with love directly to your door.
         </p>
 
